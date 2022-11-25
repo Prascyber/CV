@@ -1,0 +1,364 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Satisfy&display=swap');
+
+
+
+.pro{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.about{
+    font-family: 'caveat', cursive;
+    text-decoration: underline;
+    color: rgb(31, 44, 105);
+}
+body{
+    text-align: center;
+    margin: 0;
+    background-color: #FFFAD7 ;
+    /* font-family: 'Pacifico', cursive;  */
+}
+p{
+    margin-bottom: 110px;
+    font-size: 30px;
+}
+.domain{
+    font-family: 'caveat', cursive;
+    color: brown;
+}
+
+.folks{
+    font-family: 'caveat', cursive;
+    font-size: 50px;
+}
+.name{
+    padding-top: 20px;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    color: #2A3990;
+    
+}
+
+
+
+.top-cloud{
+position: relative;
+right: 10px;
+padding-top: 70px;
+left: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 450px;
+   
+
+}
+.pic{
+    height: 360px;
+    width: 330px;
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+}
+.html{
+    height: 100px;
+    padding-right:10px ;
+}
+.css
+{
+    height: 100px;
+    padding-right:10px ;
+
+}
+.js{
+    height: 100px;
+    border-radius: 50%;
+    padding-right:10px ;
+}
+.react{
+    height: 100px;
+    border-radius: 50%;
+    padding-right:10px ;
+}
+.skill{
+    padding-bottom: 20px;
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    
+
+}
+.p{
+padding-top: 10px;
+color: #3C4048;
+font-family: 'Lora', serif;
+font-size: 23px;
+margin-bottom: 10px;
+
+}
+
+.bio{
+    color: #3C4048;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.get{
+    font-family: 'caveat', cursive;
+    font-size: 40px;
+}
+.touch{
+    font-family: 'Lora', serif;
+    color: #3C4048;
+    font-size: 17px;
+    margin-bottom: 25px;
+    
+}
+a{
+    text-decoration: none;
+    padding-left: 15px;
+    color: rgb(45, 52, 57);   
+    font-family: 'Lora', serif; 
+}
+.contact-me{
+    font-family: 'caveat', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.pra{
+font-size: 15px;
+
+}
+
+.top-cloud1{
+    position: absolute;
+    right: 300px;
+    margin-top: 80px;
+}
+.top-cloud2{
+    position: absolute;
+    right: 50px;
+    margin-top: 80px;
+}
+.top-cloud3{
+    position: absolute;
+    right: 600px;
+    margin-bottom: 20px;
+}
+.top-cloud4{
+    position: absolute;
+    right: 200px;
+    margin-bottom: -100px;
+}
+.top-cloud5{
+    position: absolute;
+    left: 50px;
+    margin-top: -250px;
+}
+.top-cloud6{
+    position: absolute;
+    right: 1000px;
+    margin-top: -100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+   
+   
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+.yellow{
+    background-color: rgb(243, 243, 5);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body{
+    background-color: #ffffff;
+    margin: 0;
+    background-image:url('love.jpg');
+    box-sizing: border-box;
+    
+    
+} */
+ *{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-top: 0;
+
+} 
+
+/*
+.top-container{
+height: 200px;
+width: 200px;
+background-color: rgb(126, 126, 220);
+margin-left: 43%;
+
+padding: 20px;
+border: 5px;
+border-color: aqua;
+border-radius: 40px 0 40px ;
+border-style:double;
+}
+h1 ,p{
+    margin: 5px;
+    font-family: 'Pacifico', cursive;
+    margin-top: 40px;
+    color:#F9F9F9;
+    text-shadow: black;
+}
+ p{
+    font-family: 'Pacifico', cursive;
+} 
+
+.middle-container{
+    height: 200px;
+width: 200px;
+background-color: orange;
+
+border: 5px ;
+border-color: aqua;
+border-radius: 40px 0 40px ;
+border-style:double;
+background-color: #F07DEA;
+}
+
+.bottom-container{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    margin-left: 84%;
+    
+    
+    border: 5px;
+    border-color: aqua;
+    border-radius: 40px 0 40px ;
+border-style:double;
+background-color: #C8DBBE;
+
+}
+
+#ok{
+    color:#182747 ;
+}
+
+#okkk{
+    color: #182747;
+}
+
+.btn a{
+    margin-left: 48%;
+    
+}
+button{
+    font-size: 30px;
+    border: 5px green solid;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: 'Pacifico', cursive;
+    color: #678dc9;
+}
+
+.love{
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}   */
